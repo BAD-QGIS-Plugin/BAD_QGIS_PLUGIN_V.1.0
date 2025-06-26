@@ -1,0 +1,2 @@
+#BAD_QGISplugin – Burned Area Detector v2.0.0 BAD (Burned Area Detector) is a QGIS plugin for detecting burned areas and mapping burn severity from satellite multispectral imagery (e.g., Sentinel-2). Developed entirely within the QGIS environment, BAD produces geospatial outputs that highlight fire-affected zones and quantify vegetation damage.
+The plugin can be downloaded for free and installed in QGIS using Plugins > Manage and Install Plugins > Install from ZIP.
